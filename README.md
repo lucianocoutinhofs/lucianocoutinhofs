@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Olá!! Eu sou Luciano Coutinho 👋</h1>
 
-<!--
-**lucianocoutinhofs/lucianocoutinhofs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  
+  ><h3>🔭 Atualmente trabalho como Front-end</h3>
+  
+  ><h3>🌱 Estou Estudando JavaScript</h3>
+  
+ ><h3>:muscle: Conheço bem as ferramentas HTML5 e CSS3</h3>
+ <hr>
+ 
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
