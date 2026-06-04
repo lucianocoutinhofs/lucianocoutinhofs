@@ -13,7 +13,7 @@
 
 <h3>💾 Banco de Dados | Senac RJ | Em andamento (até novembro/2026)</h3>
 
-<h3>⏳ Roadmap Senac RJ: 📊 Power BI (out/2026) → 🐍 Programação em Python (jan/2027) → 📈 Analista de Dados Big Data Science (mai/2027)</h3>
+<h3>⏳ Roadmap Senac RJ: 📊 Power BI (out-dez 2026) → 🐍 Programação em Python (jan-abr 2027) → 📈 Analista de Dados Big Data Science (mai-jul 2027)</h3>
 
 <h3>⌛ Próximo objetivo: Pós-graduação em Ciência de Dados e Business Intelligence</h3>
 
