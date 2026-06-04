@@ -4,7 +4,7 @@
 
 <h3>📊 Foco em Dados, Business Intelligence e Tecnologia Operacional (OT)</h3>
 
-<h3>💾 Cursando Banco de Dados no Senac RJ (Curso Hands on). </h3>
+<h3>💾 Cursando Banco de Dados no Senac RJ (Curso Hands ON). </h3>
 
 <h3>🐍 Conhecimento intermediário de Excel, SQL, Python e Power BI</h3>
 
