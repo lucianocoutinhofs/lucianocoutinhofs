@@ -1,10 +1,12 @@
 <h1>Olá! Eu sou Luciano Coutinho 👋</h1>
 
-<h3>🎓 Técnico em Eletrotécnica | Estudante de Análise e Desenvolvimento de Sistemas</h3>
+<h3>🎓 Técnico em Eletrotécnica | Estudante do 5º período de Análise e Desenvolvimento de Sistemas</h3>
 
 <h3>📊 Foco em Dados, Business Intelligence e Tecnologia Operacional (OT)</h3>
 
-<h3>💾 Estudando Banco de Dados, SQL, Python e Power BI</h3>
+<h3>💾 Cursando Banco de Dados no Senac RJ (Curso Hands on). </h3>
+
+<h3>🐍 Conhecimento intermediário de Excel, SQL, Python e Power BI</h3>
 
 <h3>💻 Conhecimentos em HTML, CSS e JavaScript aplicados à lógica de programação e algoritmos</h3>
 
