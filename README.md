@@ -7,7 +7,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<h3>🎓 Técnico em Eletrotécnica | Estudante do 5º período de Análise e Desenvolvimento de Sistemas</h3>
+<h3>🎓 Técnico em Eletrotécnica | Estudante de ADS em fase final da graduação</h3>
 
 <h3>📊 Foco em Dados, Business Intelligence e Tecnologia Operacional (OT)</h3>
 
