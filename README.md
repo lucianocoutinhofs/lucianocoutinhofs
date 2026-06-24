@@ -14,8 +14,8 @@
 <h3>⚙️ Foco em Desenvolvimento Backend, APIs e Arquitetura de Sistemas</h3>
 
 <h3>📖 Formação:
-  • Banco de Dados | Senac RJ (Em andamento - nov/2026)
-  • Programador Backend | Senai RJ (Em andamento - jul/2026)</h3>
+  * **Banco de Dados | Senac RJ (Em andamento - nov/2026)**
+  * **Programador Backend | Senai RJ (Em andamento - jul/2026)</h3>**
   
 <h3>⏳ Jornada Técnica:
 Desenvolvimento Web (C#/.NET & Python) → Arquitetura de APIs RESTful → Integração de Sistemas, Cloud & Backend Services</h3>
@@ -23,10 +23,10 @@ Desenvolvimento Web (C#/.NET & Python) → Arquitetura de APIs RESTful → Integ
 <h3>🎯 Objetivo: Construir soluções robustas, escaláveis e eficientes para o ecossistema Web</h3>
 
 <h3>🛠️ Tech Stack:
-  • Backend: C#, .NET e Python
-  • Banco de Dados: SQL Server e modelagem relacional
-  • Frontend (Fundamentos): HTML, CSS, JavaScript e TypeScript
-  • Ferramentas: Git, controle de versão e lógica de programação</h3>
+  * **Backend: C#, .NET e Python**
+  * **Banco de Dados: SQL Server e modelagem relacional**
+  * **Frontend (Fundamentos): HTML, CSS, JavaScript e TypeScript**
+  * **Ferramentas: Git, controle de versão e lógica de programação</h3>**
 
 <h3>⚡ Background: Experiência prática em operações do setor elétrico e tecnologia (OT), trazendo precisão técnica, resolução de problemas complexos e visão sistêmica para o desenvolvimento de software</h3>
 
