@@ -34,7 +34,7 @@ Desenvolvimento Web (C#/.NET & Python) → Arquitetura de APIs RESTful → Integ
 
 ---
 <h2>
-### 📬 Entre em contato!
+📬 Entre em contato!
 
 * **LinkedIn:** [luciano-coutinhoads](https://www.linkedin.com/in/luciano-coutinhoads/)
 * **WhatsApp:** [Enviar mensagem](https://wa.me/5521996873613)</h2>
