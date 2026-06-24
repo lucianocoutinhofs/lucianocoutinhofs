@@ -9,29 +9,30 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3>🎓 **Técnico em Eletrotécnica | 📖 Graduando em Análise e Desenvolvimento de Sistemas**</h3>
+<h3>🎓 Técnico em Eletrotécnica | 📖 Graduando em Análise e Desenvolvimento de Sistemas</h3>
 
-<h3>⚙️ **Foco em Desenvolvimento Backend, APIs e Arquitetura de Sistemas**</h3>
+<h3>⚙️ Foco em Desenvolvimento Backend, APIs e Arquitetura de Sistemas</h3>
 
-<h3>📖 **Formação:**
-* Banco de Dados | Senac RJ (Em andamento - nov/2026)
-* Programador Backend | Senai RJ (Em andamento - jul/2026)</h3>
-
-<h3>⏳ **Jornada Técnica:**
+<h3>📖 Formação:
+  • Banco de Dados | Senac RJ (Em andamento - nov/2026)
+  • Programador Backend | Senai RJ (Em andamento - jul/2026)</h3>
+  
+<h3>⏳ Jornada Técnica:
 Desenvolvimento Web (C#/.NET & Python) → Arquitetura de APIs RESTful → Integração de Sistemas, Cloud & Backend Services</h3>
 
-<h3>🎯 **Objetivo:** Construir soluções robustas, escaláveis e eficientes para o ecossistema Web</h3>
+<h3>🎯 Objetivo: Construir soluções robustas, escaláveis e eficientes para o ecossistema Web</h3>
 
-<h3>🛠️ **Tech Stack:**
-* **Backend:** C#, .NET e Python
-* **Banco de Dados:** SQL Server e modelagem relacional
-* **Frontend (Fundamentos):** HTML, CSS, JavaScript e TypeScript
-* **Ferramentas:** Git, controle de versão e lógica de programação</h3>
+<h3>🛠️ Tech Stack:
+  • Backend: C#, .NET e Python
+  • Banco de Dados:** SQL Server e modelagem relacional
+  • Frontend (Fundamentos): HTML, CSS, JavaScript e TypeScript
+  • Ferramentas:** Git, controle de versão e lógica de programação</h3>
 
-<h3>⚡ **Background:** Experiência prática em operações do setor elétrico e tecnologia (OT), trazendo precisão técnica, resolução de problemas complexos e visão sistêmica para o desenvolvimento de software</h3>
+<h3>⚡ Background: Experiência prática em operações do setor elétrico e tecnologia (OT), trazendo precisão técnica, resolução de problemas complexos e visão sistêmica para o desenvolvimento de software</h3>
 
-<h3>🚀 **Em transição para oportunidades como Desenvolvedor Web (Backend ou Frontend)**</h3>
+<h3>🚀 Em transição para oportunidades como Desenvolvedor Web (Backend ou Frontend)</h3>
 
 ---
-<h3>### 📬 Entre em contato!
-* **LinkedIn:** [(https://www.linkedin.com/in/luciano-coutinhoads/)]</h3>
+<h3>📬 Entre em contato!
+LinkedIn: [(https://www.linkedin.com/in/luciano-coutinhoads/)]
+Whatsapp:[https://wa.me/5521996873613](https://wa.me/5521996873613)</h3>
