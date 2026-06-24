@@ -22,3 +22,7 @@ Construir soluções robustas, escaláveis e eficientes para o ecossistema Web.
 Experiência prática em operações do setor elétrico e tecnologia (OT), trazendo precisão técnica, resolução de problemas complexos e visão sistêmica para o desenvolvimento de software.
 
 ### 🚀 Em transição para oportunidades como Desenvolvedor Web (Backend ou Frontend)
+---
+### 📬 Contatos
+• **LinkedIn:** [Acesse meu perfil](https://www.linkedin.com/in/luciano-coutinhoads/)  
+• **WhatsApp:** [(21) 99687-3613](https://wa.me/5521996873613)
