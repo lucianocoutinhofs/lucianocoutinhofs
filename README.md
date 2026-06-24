@@ -33,6 +33,6 @@ Desenvolvimento Web (C#/.NET & Python) → Arquitetura de APIs RESTful → Integ
 <h3>🚀 Em transição para oportunidades como Desenvolvedor Web (Backend ou Frontend)</h3>
 
 ---
-<h3>📬 Entre em contato!
-LinkedIn: [(https://www.linkedin.com/in/luciano-coutinhoads/)]
-Whatsapp:[https://wa.me/5521996873613](https://wa.me/5521996873613)</h3>
+<h2>📬 Entre em contato!
+LinkedIn: [luciano-coutinhoads](https://www.linkedin.com/in/luciano-coutinhoads/)
+WhatsApp: [Enviar mensagem](https://wa.me/5521996873613)</h2>
